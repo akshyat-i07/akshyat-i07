@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **akshyat30@gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** TrueVision – An AI Image Detector
+- 🔭 **I’m currently working on:** A Book Recommendation system
 - 🌱 **I’m currently learning:** Data Structures & Algorithms (DSA) and Artificial Intelligence/Machine Learning (AI/ML)
 - 👯 **I’m looking to collaborate on:** Research Projects in AI/ML
 - 🤔 **I’m looking for help with:** Building impactful AI/ML projects
