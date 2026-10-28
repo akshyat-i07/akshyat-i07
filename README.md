@@ -1,16 +1,7 @@
 # 💫 Hi 👋, I'm Akshyat
 **An AI/ML Enthusiast from India 🇮🇳**
 
-Email Me 👉 ✉️ **akshyat30@gmail.com* For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** A Book Recommendation system
-- 🌱 **I’m currently learning:** Data Structures & Algorithms (DSA) and Artificial Intelligence/Machine Learning (AI/ML)
-- 👯 **I’m looking to collaborate on:** Research Projects in AI/ML
-- 🤔 **I’m looking for help with:** Building impactful AI/ML projects
-- 💬 **Ask me about:** AI/ML, Python & DSA
-- 📫 **How to reach me:** akshyat30@gmail.com
-- ⚡ **Fun fact:** I spend 10% of my time training models and 90% convincing bugs they're just undocumented features. 😄
-
+Email Me 👉 ✉️ **akshyat30@gmail.com* For Collaboration/Project.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshyaaat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshyat-bora-6693a0341) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AkshyatBora) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshyat30@gmail.com) 
 
@@ -24,8 +15,6 @@ Email Me 👉 ✉️ **akshyat30@gmail.com* For Collaboration/Project or Anythin
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=akshyat-i07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=akshyat-i07&icon=0&color=0)](https://visitcount.itsvg.in)
